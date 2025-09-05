@@ -1,0 +1,150 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* .head{
+    background-color: red;
+    width: 100vw;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    
+    
+} */
+.Mainnav{
+    background-color: red;
+    width: 100vw;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+   
+}
+#nav-first-div{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    width: 23vw;
+    align-items: center;
+    align-content: center;
+}
+#nav-second-div{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    font-size: large;
+}
+.ac{
+    margin: 20px;
+    color: white;
+    text-decoration: none;
+}
+#ig{
+    background-image: none;
+    height: 14vh;
+    margin-left: 15px;
+   margin-right: 20px;
+}
+
+/* ================main============== */
+.main123{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    padding-bottom: 2px;
+    /* height: 20px; */
+
+}
+.main-first-div{
+    width: 800px;
+    height: 450px;
+    font-weight: 700;
+    background-color: rgb(238, 235, 235);
+}
+#First
+{   
+    /* align-items: center;
+    justify-content: center; */
+    height: 50px;
+    padding-left: 55px;
+    padding-top: 15px;
+    font-size: 17px;
+    background-color: blueviolet;
+    color: white;
+    align-content: flex-start;
+   
+}
+legend{
+    color: red;
+    font-size: xx-large;
+    font-weight: 700;
+    margin: 40px;
+   
+
+}
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+   
+    
+}
+#click{
+    display: flex;
+    margin: 20px;
+    justify-content: space-evenly;
+}
+
+button{
+    background-color: red;
+    color: white;
+    width: 5vw;
+    height: 5vh;
+    margin: 20px;
+}
+b{
+    align-content: space-evenly;
+    font-size: large;
+    
+}
+#col{
+    color: red;
+}
+.Res
+{
+
+    display: block;
+   
+}
+.pass{
+    display: block;
+}
+#forg{
+      color: rgb(27, 4, 4);
+      margin: 10px;
+      font-size: medium;
+      text-decoration: none;
+}
+label{
+    display: flex;
+
+}
+input{
+    font-size: medium;
+}
+/* ======footer start============= */
+
+.foot{
+    height: 10vh;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    
+}
